@@ -395,7 +395,7 @@ ini_set('error_reporting', 'on');
 ini_set('display_errors', 'on');
 ```
 
-如果确实需要，可按一下步骤开启（在容器中）。
+如果确实需要，可按以下步骤开启（在容器中）。
 
 1. 进入容器，创建日志文件并修改权限：
     ```bash
